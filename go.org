@@ -31,10 +31,22 @@ Go 语言支持交叉编译
 imports runtime: cannot find package "runtime" in any of:
 
 
+** context
 在 Go 的 server 里，通常每来一个请求都会启动若干个 goroutine 同时工作：有些去数据库拿数据，有些调用下游接口获取相关数据等等。
 Go 语言中的 server 实际上是一个“协程模型”，也就是说一个协程处理一个请求。
 context 用来解决 goroutine 之间退出通知、元数据传递的功能。
 有协程，就需要context管理和协调多个协程。
+
+TODO和background的区别
+background 是一个空的 context， 它不能被取消，没有值，也没有超时时间。
+用作根context
+
+context的使用注意:
+>不要将 Context 塞到结构体里。直接将 Context 类型作为函数的第一参数，而且一般都命名为 ctx。
+>不要向函数传入一个 nil 的 context，如果你实在不知道传什么，标准库给你准备好了一个 context：todo。
+ ? 这里不能默认用根context即background context吗?
+>不要把本应该作为函数参数的类型塞到 context 中，context 存储的应该是一些共同的数据。例如：登陆的 session、cookie 等。
+>同一个 context 可能会被传递到多个 goroutine，别担心，context 是并发安全的。
 
 
 * 安装
