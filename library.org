@@ -35,10 +35,6 @@ https://mp.weixin.qq.com/s/-OiYQuLS7eUpxiQXQNktgw
 
 孙子兵法
 
-围棋
-
-象棋
-
 军旗
 
 跳棋
@@ -463,6 +459,10 @@ kindle一部
 
 ** 其他
 穿布鞋的马云
+
+围棋
+
+象棋
 
 * 支出明细
 七龙珠                  141
