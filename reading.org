@@ -74,3 +74,29 @@ kelly
 豆豆爸
 
 henry
+
+
+* 已分享的书
+  
+how will you measure your life 
+
+金刚经
+
+机器学习实战hands-on
+
+一本书读懂财报
+
+天龙八部
+
+国富论
+
+西游原旨
+
+西游记
+
+受戒 - 汪曾祺
+
+心经
+
+地藏本愿经
+
