@@ -1,4 +1,4 @@
-乔峰读书会
+乔峰读书帮
 
 读的是书，悟的是人生。 
 
@@ -95,7 +95,19 @@ how will you measure your life
 
 西游记
 
-受戒 - 汪曾祺
+地藏本愿经
+
+笑傲江湖
+
+七龙珠
+
+郑渊洁儿童读物
+
+管子
+
+人生效率手册
+
+易经受戒 - 汪曾祺
 
 心经
 
@@ -118,6 +130,24 @@ how will you measure your life
 冰与火之歌 (权力的游戏)
 
 倚天屠龙记
+
+道德情操论
+
+奇特的一生
+
+大唐西域记
+
+组合数学
+
+黄帝内经
+
+python cookbook
+
+Combinatorics of finite sets
+
+External Graph Theorem
+
+云雀叫了一整天
 
 * 简介
 
