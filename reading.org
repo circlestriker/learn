@@ -94,6 +94,7 @@ kelly
 
 阿花
 
+Monday阳阳
 
 * 已分享的书
   
@@ -170,6 +171,10 @@ External Graph Theorem
 Dive into Deep Learning
 
 六祖坛经
+
+传习录
+
+狼道
 
 * 音乐
 ** 雅尼
